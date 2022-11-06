@@ -1,0 +1,8 @@
+# временыу файлы разработки и отладки
+.date.txt
+
+# IDE
+.idea
+
+# python
+__pycache__
